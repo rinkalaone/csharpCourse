@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\bin\Debug\net6.0\ConsoleOOP.exe
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\bin\Debug\net6.0\ConsoleOOP.deps.json
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\bin\Debug\net6.0\ConsoleOOP.runtimeconfig.json
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\bin\Debug\net6.0\ConsoleOOP.dll
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\bin\Debug\net6.0\ConsoleOOP.pdb
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\obj\Debug\net6.0\ConsoleOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\obj\Debug\net6.0\ConsoleOOP.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\obj\Debug\net6.0\ConsoleOOP.AssemblyInfo.cs
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\obj\Debug\net6.0\ConsoleOOP.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\obj\Debug\net6.0\ConsoleOOP.dll
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\obj\Debug\net6.0\refint\ConsoleOOP.dll
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\obj\Debug\net6.0\ConsoleOOP.pdb
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\obj\Debug\net6.0\ConsoleOOP.genruntimeconfig.cache
+C:\Users\Student\source\repos\ConsoleAppDay1\ConsoleOOP\obj\Debug\net6.0\ref\ConsoleOOP.dll
